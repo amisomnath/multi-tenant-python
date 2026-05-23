@@ -1,1 +1,1 @@
-# multi-tenant-django
+# multi-tenant-python
